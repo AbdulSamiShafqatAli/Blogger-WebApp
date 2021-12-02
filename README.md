@@ -16,5 +16,6 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * Contains HOME, CATEGORY, ARCHIVE, PAGES, CONTACT and many other sections.
 
 
-## Project Preview: https://abdulsamishafqatali.github.io/Blogger-WebApp/
+## Project Preview:
+[`click here to view live project`](https://abdulsamishafqatali.github.io/Blogger-WebApp/)
 
